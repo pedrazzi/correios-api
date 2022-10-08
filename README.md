@@ -1,4 +1,4 @@
-# ibge-api
+# correios-api
 
 Biblioteca `PHP` para consulta dos dados da API oficial dos Correios.
 
