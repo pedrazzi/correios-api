@@ -1,0 +1,11 @@
+.config/
+
+.vscode/
+
+vendor/
+
+.dockerignore
+
+docker-compose.yml
+
+index.php

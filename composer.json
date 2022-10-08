@@ -1,0 +1,24 @@
+{
+  "name": "pedrazzi/correios-api",
+  "description": "API Correios em php",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fábio Pedrazzi",
+      "email": "pedrazzi@hotmail.com"
+    }
+  ],
+  "keywords": [
+    "php",
+    "correios",
+    "api",
+    "rastreamento",
+    "cep"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Pedrazzi\\Correios\\": "src/"
+    }
+  }
+}
